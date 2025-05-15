@@ -1,5 +1,5 @@
 # DUET
-This repository contains DUET, a data-mixing method that exploits feedback from an unseen task.
+This repository contains DUET, a data-mixing method that exploits feedback from an unseen task to optimize a data mixture for an LLM.
 
 ## Requirements
 
